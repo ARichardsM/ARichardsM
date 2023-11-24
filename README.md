@@ -1,15 +1,15 @@
-# Hi 👋, I'm Adrian M. Richards
+# Hi, I'm Adrian M. Richards
 ## An American-Canadian Software Developer
 
-### 🔭 What I'm Working On
+### What I'm Working On
 **Character Tracker**: A continuation of a previous commandline script, designed to manage multiple characters and groups of characters as text files.
 
-### 🌱 What I'm Learning
+### What I'm Learning
 **Datebases:** MongoDB <br>
 **Engines:** Godot <br>
 **Frameworks:** Angular, React
 
-### 💾 What I've Used
+### What I've Used
 
 #### Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
