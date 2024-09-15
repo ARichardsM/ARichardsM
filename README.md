@@ -1,13 +1,13 @@
-# Hi, I'm Adrian M. Richards <br> An American-Canadian Software Developer
+# The Personal Github Repository of A. Richards
 
 ## Projects
 ### Current
-**Character Tracker**: A continuation of a previous commandline script, designed to manage multiple characters and groups of characters as text files.
+**Character Tracker**: A continuation of a previous commandline script, designed to manage multiple characters and groups of characters as text files. In the future, much of this code will be reused, alongside the SFML Tabletop, in a Godot based application.
 
-**SFML Tabletop**: A continuation of a previous script using SFML, designed to assist with character creation and experiment with GUI elements.
+**SFML Tabletop**: A continuation of a previous script using SFML, designed to assist with character creation and experiment with GUI elements. In the future, much of this code will be reused, alongside the Character Tracker, in a Godot based application.
 
 ### Future
-**Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). This would be done as a single page, and may incorporate AWS if feasible.
+**Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). This would be done as a single page, and may incorporate AWS if feasible. As the Brante Steele version is a simple generator, additional logic will be added in order to better replicate a real game.
 
 ## What I'm Learning
 **Datebases:** MongoDB <br>
