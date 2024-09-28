@@ -9,6 +9,8 @@
 ### Future
 **Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). This would be done as a single page, and may incorporate AWS if feasible. As the Brante Steele version is a simple generator, additional logic will be added in order to better replicate a real game.
 
+**Godot Project**: A larger project planned for after I have a better handle on Godot. This project will likely incorporate elements from both the Character Tracker and the SFML Tabletop.
+
 ## What I'm Learning
 **Datebases:** MongoDB <br>
 **Engines:** Godot <br>
