@@ -1,15 +1,15 @@
-# The Personal Github Repository of A. Richards
+# A. Richards' GitHub Repository
 
 ## Projects
 ### Current
-**Character Tracker**: A continuation of a previous commandline script, designed to manage multiple characters and groups of characters as text files. In the future, much of this code will be reused, alongside the SFML Tabletop, in a Godot based application.
+**Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files. This is an extension of a previous project, with plans to integrate this code into a future Godot-based application alongside the SFML Tabletop.
 
-**SFML Tabletop**: A continuation of a previous script using SFML, designed to assist with character creation and experiment with GUI elements. In the future, much of this code will be reused, alongside the Character Tracker, in a Godot based application.
+**SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements. The code will eventually be reused within a Godot project, combined with the Character Tracker.
 
 ### Future
-**Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). This would be done as a single page, and may incorporate AWS if feasible. As the Brante Steele version is a simple generator, additional logic will be added in order to better replicate a real game.
+**Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). The project will include added logic to mimic actual gameplay more closely and might leverage AWS for backend functionality.
 
-**Godot Project**: A larger project planned for after I have a better handle on Godot. This project will likely incorporate elements from both the Character Tracker and the SFML Tabletop.
+**Godot Project**: A long-term goal to develop a larger Godot project that incorporates elements from both the Character Tracker and SFML Tabletop once I become more familiar with the engine.
 
 ## What I'm Learning
 **Datebases:** MongoDB <br>
