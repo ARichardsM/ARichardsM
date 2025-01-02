@@ -7,7 +7,7 @@
 **SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements. The code will eventually be reused within a Godot project, combined with the Character Tracker.
 
 ### Future
-**Auto Among Us**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). The project will include added logic to mimic actual gameplay more closely and might leverage AWS for backend functionality.
+**Auto Social Deduction Game**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). The project will include added logic to mimic actual gameplay more closely and might leverage AWS for backend functionality.
 
 **Godot Project**: A long-term goal to develop a larger Godot project that incorporates elements from both the Character Tracker and SFML Tabletop once I become more familiar with the engine.
 
