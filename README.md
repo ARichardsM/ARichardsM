@@ -7,17 +7,28 @@
 **SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements. The code will eventually be reused within a Godot project, combined with the Character Tracker.
 
 ### Future
-**Auto Social Deduction Game**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/). The project will include added logic to mimic actual gameplay more closely and might leverage AWS for backend functionality.
+**Godot UI Project**: A long-term initiative aimed at creating a large-scale Godot project by integrating elements from previous work, such as the Character Tracker and SFML Tabletop projects. This endeavor focuses on combining expertise in the Godot UI system, C++, and R to develop interactive, intuitive, and efficient user interfaces.
 
-**Godot Project**: A long-term goal to develop a larger Godot project that incorporates elements from both the Character Tracker and SFML Tabletop once I become more familiar with the engine.
+**2D Game Development**: A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
 
-## What I'm Learning
+**3D Biathlon Simulation**: A 3D project inspired by the Biathlon, combining two mini-projects into a unified simulation. This project leverages Godot’s 3D engine to create dynamic, engaging gameplay and showcases 3D development skills.
+
+**Auto Social Deduction Game**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/) with enhanced logic to better simulate gameplay mechanics. This project demonstrates a strong understanding of game logic and systems design.
+
+## Skills
+### Learning
+**Languages:** R <br>
 **Datebases:** MongoDB <br>
 **Engines:** Godot <br>
 **Frameworks:** Angular, React
 
-## What I've Used
-
+### Previous
+**Programming:** C, C++, Python, Java <br>
+**Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, Docker <br>
+**Database:** MySQL <br>
+**Machine Learning:** Matplotlib, NumPy, scikit-learn <br>
+**Tools:** LibreOffice, Microsoft Office, Figma, Git, Arduino
+<!---
 ### Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -51,7 +62,7 @@
 ## 📫 Connect with me
 *Email:* adrian.richards.m@gmail.com <br>
 *LinkedIn:* www.linkedin.com/in/adrian-richards-19365622b/
-
+--->
 
 <!---
 ARichardsM/ARichardsM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
