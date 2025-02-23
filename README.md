@@ -1,28 +1,43 @@
-# A. Richards' GitHub Repository
+# GitHub Repository
 
 ## Projects
-### Current
-**Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files. This is an extension of a previous project, with plans to integrate this code into a future Godot-based application alongside the SFML Tabletop.
 
-**SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements. The code will eventually be reused within a Godot project, combined with the Character Tracker.
+### Current
+
+***[Main]* Godot UI Project:** A long-term initiative aimed at creating a large-scale Godot project by integrating elements from previous work, such as the Character Tracker and SFML Tabletop projects. This endeavor focuses on combining expertise in the Godot UI system, C#, and R to develop interactive, intuitive, and efficient user interfaces.
+
+***
 
 ### Future
-**Godot UI Project**: A long-term initiative aimed at creating a large-scale Godot project by integrating elements from previous work, such as the Character Tracker and SFML Tabletop projects. This endeavor focuses on combining expertise in the Godot UI system, C++, and R to develop interactive, intuitive, and efficient user interfaces.
 
-**2D Game Development**: A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
+**Reaction Monitor:** Details to be added dependant on learning. 
 
-**3D Biathlon Simulation**: A 3D project inspired by the Biathlon, combining two mini-projects into a unified simulation. This project leverages Godot’s 3D engine to create dynamic, engaging gameplay and showcases 3D development skills.
+**Auto Social Deduction Game:** A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/) with enhanced logic to better simulate gameplay mechanics. This project demonstrates a strong understanding of game logic and systems design.
 
-**Auto Social Deduction Game**: A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/) with enhanced logic to better simulate gameplay mechanics. This project demonstrates a strong understanding of game logic and systems design.
+**2D Game Development:** A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
+
+**3D Biathlon Simulation:** A 3D project inspired by the Biathlon, combining two mini-projects into a unified simulation. This project leverages Godot’s 3D engine to create dynamic, engaging gameplay and showcases 3D development skills.
+
+***
+
+### Past
+
+- **Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files.
+- **SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements.
 
 ## Skills
+
 ### Learning
-**Languages:** R <br>
+
+**Languages:** R, C# <br>
 **Datebases:** MongoDB <br>
 **Engines:** Godot <br>
 **Frameworks:** Angular, React
 
+***
+
 ### Previous
+
 **Programming:** C, C++, Python, Java <br>
 **Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, Docker <br>
 **Database:** MySQL <br>
