@@ -6,6 +6,10 @@
 
 ***[Main]* Godot UI Project:** A long-term initiative aimed at creating a large-scale Godot project by integrating elements from previous work, such as the Character Tracker and SFML Tabletop projects. This endeavor focuses on combining expertise in the Godot UI system, C#, and R to develop interactive, intuitive, and efficient user interfaces.
 
+***[Side]* Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files.
+
+***[Side]* SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements.
+
 ***
 
 ### Future
@@ -22,8 +26,7 @@
 
 ### Past
 
-- **Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files.
-- **SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements.
+
 
 ## Skills
 
