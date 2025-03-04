@@ -4,7 +4,7 @@
 
 ### Current
 
-***[Main]* Godot UI Project:** A long-term initiative aimed at creating a large-scale Godot project by integrating elements from previous work, such as the Character Tracker and SFML Tabletop projects. This endeavor focuses on combining expertise in the Godot UI system, C#, and R to develop interactive, intuitive, and efficient user interfaces.
+***[Main]* Godot UI Project:** The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. With a primary focus on Godot’s control nodes, this effort aims to deepen expertise in interactive system design while advancing previous projects.
 
 ***[Side]* Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files.
 
@@ -14,9 +14,9 @@
 
 ### Future
 
-**Reaction Monitor:** Details to be added dependant on learning. 
+**Group Reaction Monitor:** The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project, streamlining its functionality before adding new features. As development progresses, additional details will be determined based on peer reviews.
 
-**Auto Social Deduction Game:** A recreation of the Brante Steele Among Us Simulator (https://www.brantsteele.com/simple/) with enhanced logic to better simulate gameplay mechanics. This project demonstrates a strong understanding of game logic and systems design.
+**Mobile Social Deduction Simulator:** The Mobile Social Deduction Game is Godot-based version of the BrantSteele Among Us simulator, designed to provide a more accurate representation of gameplay mechanics through improved logic. This project prioritizes mobile development and uses C# and GDScript for scripting.
 
 **2D Game Development:** A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
 
