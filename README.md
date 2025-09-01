@@ -4,11 +4,9 @@
 
 ### Current
 
-***[Main]* Godot UI Project:** The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. With a primary focus on Godot’s control nodes, this effort aims to deepen expertise in interactive system design while advancing previous projects.
+***[Main]* Godot UI Project:** The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. This effort aims to deepen expertise in interactive system design while advancing previous projects.
 
-***[Side]* Character Tracker**: A command-line tool designed for managing multiple characters and groups as text files.
-
-***[Side]* SFML Tabletop**: A GUI-based project utilizing SFML to aid character creation and experiment with user interface elements.
+***[Side]* Automated Deduction Project:** The Automated Deduction Project is based on the website BrantSteele.net, and is designed to provide a method of automated selection, in the style of a tournment or a reality competition.
 
 ***
 
@@ -16,21 +14,18 @@
 
 **Group Reaction Monitor:** The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project, streamlining its functionality before adding new features. As development progresses, additional details will be determined based on peer reviews.
 
-**Mobile Social Deduction Simulator:** The Mobile Social Deduction Game is Godot-based version of the BrantSteele Among Us simulator, designed to provide a more accurate representation of gameplay mechanics through improved logic. This project prioritizes mobile development and uses C# and GDScript for scripting.
-
-**2D Game Development:** A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
-
-**3D Biathlon Simulation:** A 3D project inspired by the Biathlon, combining two mini-projects into a unified simulation. This project leverages Godot’s 3D engine to create dynamic, engaging gameplay and showcases 3D development skills.
-
 ***
 
 ### Past
 
 
+**Character Tracker**: A command-line tool designed for managing multiple data points and groups as text files.
+
+**SFML Tabletop**: A GUI-based project utilizing SFML to aid data creation and experiment with user interface elements.
 
 ## Skills
 
-### Learning
+### Current Focus
 
 **Languages:** R, C# <br>
 **Datebases:** MongoDB <br>
@@ -47,6 +42,13 @@
 **Machine Learning:** Matplotlib, NumPy, scikit-learn <br>
 **Tools:** LibreOffice, Microsoft Office, Figma, Git, Arduino
 <!---
+
+**2D Game Development:** A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
+
+**3D Biathlon Simulation:** A 3D project inspired by the Biathlon, combining two mini-projects into a unified simulation. This project leverages Godot’s 3D engine to create dynamic, engaging gameplay and showcases 3D development skills.
+
+
+
 ### Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
