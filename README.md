@@ -12,14 +12,16 @@
 
 ### Future
 
-**Group Reaction Monitor:** The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project, streamlining its functionality before adding new features. As development progresses, additional details will be determined based on peer reviews.
+**Group Reaction Monitor:** The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project by:
+1. Streamlining the previous version down to a fully functional baseline.
+2. Adding features that were theorized or recommended for the original version. 
+3. Implementing a peer review system to determine new desired features.
 
 ***
 
 ### Past
 
-
-**Character Tracker**: A command-line tool designed for managing multiple data points and groups as text files.
+**Character Tracker**: A command-line tool designed for managing multiple data points and groups stored as text files.
 
 **SFML Tabletop**: A GUI-based project utilizing SFML to aid data creation and experiment with user interface elements.
 
@@ -27,18 +29,17 @@
 
 ### Current Focus
 
-**Languages:** R, C# <br>
-**Datebases:** MongoDB <br>
+**Languages:** Python, R, C# <br>
+**Datebases:** SQL <br>
 **Engines:** Godot <br>
-**Frameworks:** Angular, React
 
 ***
 
 ### Previous
 
-**Programming:** C, C++, Python, Java <br>
-**Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, Docker <br>
-**Database:** MySQL <br>
+**Programming:** C, C++, Java <br>
+**Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, React, Docker <br>
+**Database:** MySQL, MongoDB <br>
 **Machine Learning:** Matplotlib, NumPy, scikit-learn <br>
 **Tools:** LibreOffice, Microsoft Office, Figma, Git, Arduino
 <!---
