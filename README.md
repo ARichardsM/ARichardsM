@@ -1,47 +1,44 @@
 # GitHub Repository
 
-## Projects
-
-### Current
-
-***[Main]* Godot UI Project:** The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. This effort aims to deepen expertise in interactive system design while advancing previous projects.
-
-***[Side]* Automated Deduction Project:** The Automated Deduction Project is based on the website BrantSteele.net, and is designed to provide a method of automated selection, in the style of a tournment or a reality competition.
+Welcome to the personal repository of Adrian M. Richards.  
+My current focuses are the languages Python, R, SQL, and C#, and the engine Godot.  
 
 ***
 
-### Future
+## Projects
 
-**Group Reaction Monitor:** The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project by:
+***[Main]* Godot UI Project**  
+The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. This effort aims to deepen expertise in interactive system design while advancing previous projects.
+
+***[Side]* Automated Deduction Project**  
+The Automated Deduction Project is based on the website BrantSteele.net, and is designed to provide a method of automated selection, in the style of a tournment or a reality competition.
+
+<br>
+
+***[Future]* Group Reaction Monitor**  
+The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project by:
 1. Streamlining the previous version down to a fully functional baseline.
 2. Adding features that were theorized or recommended for the original version. 
 3. Implementing a peer review system to determine new desired features.
 
+<br>
+
+***[Past]* Character Tracker**: A command-line tool designed for managing multiple data points and groups stored as text files.
+
+***[Past]* SFML Tabletop**: A GUI-based project utilizing SFML to aid data creation and experiment with user interface elements.
+
 ***
-
-### Past
-
-**Character Tracker**: A command-line tool designed for managing multiple data points and groups stored as text files.
-
-**SFML Tabletop**: A GUI-based project utilizing SFML to aid data creation and experiment with user interface elements.
 
 ## Skills
 
-### Current Focus
-
-**Languages:** Python, R, C# <br>
-**Datebases:** SQL <br>
+**Programming:** C, C++, Java, Python, R, C#  <br>
+**Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, React, Docker <br>
+**Database:** MySQL, MongoDB, SQL <br>
+**Machine Learning:** Matplotlib, NumPy, scikit-learn <br>
 **Engines:** Godot <br>
+**Tools:** LibreOffice, Microsoft Office, Figma, Git, Arduino
 
 ***
-
-### Previous
-
-**Programming:** C, C++, Java <br>
-**Web Development:** JavaScript, TypeScript, HTML, CSS, PHP, Angular, React, Docker <br>
-**Database:** MySQL, MongoDB <br>
-**Machine Learning:** Matplotlib, NumPy, scikit-learn <br>
-**Tools:** LibreOffice, Microsoft Office, Figma, Git, Arduino
 <!---
 
 **2D Game Development:** A 2D project inspired by Zenva course materials, merging two mini-projects into a cohesive experience. Highlights proficiency in Godot’s 2D framework and demonstrates effective implementation of game mechanics and design principles
