@@ -1,27 +1,33 @@
 # GitHub Repository
 
-Welcome to the personal repository of Adrian M. Richards.  
-My current focuses are the languages Python, R, SQL, and C#, and the engine Godot.  
+Welcome to my repository, which currently contains mostly hobby projects.
+My current coding focuses are Python, R, and C#.
+I’m also exploring UX and GUI design using the Godot Engine.
 
 ***
 
 ## Projects
 
 ***[Main]* Godot UI Project**  
-The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system, C#, and R, the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. This effort aims to deepen expertise in interactive system design while advancing previous projects.
+The Godot UI Project is a project focused on integrating previous work, including the Character Tracker and SFML Tabletop projects, to create a user interface system. By leveraging the Godot UI system and C# the project seeks to help determine group compatability via data visualization with intuitive, efficient UI designs. This effort aims to deepen expertise in interactive system design while advancing previous projects.
 
-***[Side]* Automated Deduction Project**  
+***[Side]* DAT R Project**
+A recreation of the Best-Selling Books Data Analysis project in R. The goal is to present more comprehensive data while introducing softer coding practices through the use of R.
+
+
+<br>
+
+***[Backlog]* Automated Deduction Project**  
 The Automated Deduction Project is based on the website BrantSteele.net, and is designed to provide a method of automated selection, in the style of a tournment or a reality competition.
 
-<br>
-
-***[Future]* Group Reaction Monitor**  
+***[Backlog]* Group Reaction Monitor**  
 The Group Reaction Monitor is a project utilizing the Godot engine, with a focus on its online capabilities and scripting in C# and GDScript. The objective is to refine and expand upon the web service capstone project by:
-1. Streamlining the previous version down to a fully functional baseline.
+1. Streamlining the previous version.
 2. Adding features that were theorized or recommended for the original version. 
-3. Implementing a peer review system to determine new desired features.
 
 <br>
+
+***[Past]* Best Selling Books Data Analysis**: A python script that pulls information form the best selling book list by Malak Lahyani.
 
 ***[Past]* Character Tracker**: A command-line tool designed for managing multiple data points and groups stored as text files.
 
